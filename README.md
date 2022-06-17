@@ -1,4 +1,4 @@
-# Java_inheritance_polymorphism_2
+# 
 
 Make a program to read the data of N taxpayers (N provided by the user), which can be individuals or legal entities, and then show the tax 
 amount paid by each one, as well as the total tax collected.
